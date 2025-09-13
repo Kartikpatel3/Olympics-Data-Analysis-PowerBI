@@ -16,7 +16,7 @@ The dashboard provides deep insights into Olympic history, including **medal tre
 ---
 
 ## 📷 Dashboard Preview
-![Olympics Dashboard Screenshot]()  
+![Olympics Dashboard Screenshot](Screenshot 2025-09-12 102929.png)  
 
 *(Add your actual screenshot here from the repo folder)*
 
